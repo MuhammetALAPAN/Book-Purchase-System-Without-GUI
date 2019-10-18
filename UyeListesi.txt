@@ -1,0 +1,7 @@
+﻿.....Kullanicinin Emaili.....-.....Kullanicinin Sifresi.....-Kullanicinin Adi-Kullanicinin Soyadi-Kullanicinin Adresi
+halaskar-1234-Muhammed-ALAPAN-Avcilar
+headhunter-12345-muhammed-alapan-Avcilar
+agar-123-muhammed-Alapan-Avcilar
+basri-0000-basri-yapici-avcilar
+akasya-0569-akasya-ucar-kahta
+asd-asdf-asdfg-asdfgh-sadfghj
